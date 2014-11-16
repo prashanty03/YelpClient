@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/connection/Service.java=UTF-8
+encoding//src/connection/ServiceService.java=UTF-8
+encoding//src/connection/ServiceServiceLocator.java=UTF-8
+encoding//src/connection/ServiceSoapBindingStub.java=UTF-8
+encoding//src/exception/YelpException.java=UTF-8
+encoding//src/vo/CategoryVO.java=UTF-8
+encoding//src/vo/ElementVO.java=UTF-8
+encoding//src/vo/ReviewVO.java=UTF-8
+encoding//src/vo/StatusVO.java=UTF-8
+encoding//src/vo/UserVO.java=UTF-8
